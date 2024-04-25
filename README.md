@@ -16,7 +16,7 @@ Dreams: get a professional experience as QA analyst and my CTFL certification ðŸ
 ### ðŸ”— Connections:
 
 <a href="https://www.linkedin.com/in/willcarneiro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willcarneiro/)
