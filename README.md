@@ -2,11 +2,11 @@
 
 My name is William Carneiro
 
-Bachelor's Student of Software Engineering  - 1st Semester 📚
+Software Engineering student - 2nd Year 📚
 
-Front-end Development Student and Lover 🫀
+QA analyst and a lifelong learner 🫀
 
-Dream: to become a Fullstack Developer 🤖
+Dreams: get a professional experience as QA analyst and my CTFL certification 🤖
 
 <div>
   <img height= 180em src= "https://github-readme-stats.vercel.app/api?username=WillCarneiro&show_icons=true&theme=tokyonight"/>
@@ -17,7 +17,6 @@ Dream: to become a Fullstack Developer 🤖
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willcarneiro/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willdoro.carneiro91@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WilliamDoro)
 
 ### 🛠️ Technologies:
 
