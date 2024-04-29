@@ -6,7 +6,7 @@ Software Engineering student - 2nd Year 📚
 
 QA analyst and a lifelong learner 🫀
 
-Dreams: get a professional experience as QA analyst and my CTFL certification 🤖
+Studing to get my first professional experience as QA analyst and to get my CTFL certification 🤖
 
 <div>
   <img height= 180em src= "https://github-readme-stats.vercel.app/api?username=WillCarneiro&show_icons=true&theme=tokyonight"/>
